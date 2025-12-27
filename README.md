@@ -7,57 +7,57 @@ This project is a static clone of the Udemy homepage built using HTML5 and CSS3.
 
 Objective
 
-The main objective of this project is to replicate the core UI layout of the Udemy website and gain hands-on experience in:
+1.The main objective of this project is to replicate the core UI layout of the Udemy website and gain hands-on experience in:
 
-Writing semantic HTML
+2.Writing semantic HTML
 
-Designing responsive layouts
+3.Designing responsive layouts
 
-Using Flexbox and CSS Grid effectively
+4.Using Flexbox and CSS Grid effectively
 
 Features
 
-Navbar with logo, search bar, and navigation links
+1.Navbar with logo, search bar, and navigation links
 
-Category menu bar similar to Udemy
+2.Category menu bar similar to Udemy
 
-Recommended courses section with course cards
+3.Recommended courses section with course cards
 
-Recommended topics section with input box
+4.Recommended topics section with input box
 
-Popular courses section based on ratings
+5.Popular courses section based on ratings
 
-Footer with multiple links and copyright information
+6.Footer with multiple links and copyright information
 
 Technologies Used
 
-HTML5
+1.HTML5
 
-CSS3
+2.CSS3
 
-Flexbox
+3.Flexbox
 
-CSS Grid
+4.CSS Grid
 
 Responsive Design
 
 The website layout is responsive and adapts to different screen sizes, including:
 
-Desktop
+1.Desktop
 
-Tablet
+2.Tablet
 
-Mobile
+3.Mobile
 
 Learning Outcomes
 
-Better understanding of webpage structure
+1.Better understanding of webpage structure
 
-Improved CSS layout and alignment skills
+2.Improved CSS layout and alignment skills
 
-Practical experience in building real-world UI clones
+3.Practical experience in building real-world UI clones
 
-Strong foundation in front-end development
+4.Strong foundation in front-end development
 
 Disclaimer
 
