@@ -142,22 +142,22 @@
     padding: 10px;
 }
 
-.popular {
-   
-    margin: 10px;
-    flex-wrap: wrap;
-    padding-bottom: 50px;
-    padding: 10px;
-}
-
 .popular__sec-1{
     display: flex;
     justify-content: space-between;
+    margin:10px;
+    flex-wrap: wrap;
+     padding-bottom: 50px;
+    padding: 10px;
 }
 
 .popular__sec-2{
-    display: flex;
+   display: flex;
     justify-content: space-between;
+    margin:10px;
+    flex-wrap: wrap;
+     padding-bottom: 50px;
+    padding: 10px;
 }
 
 .footer__1 {
@@ -175,4 +175,5 @@
 .footer {
     background-color:black;
     color: white;
+
 }
