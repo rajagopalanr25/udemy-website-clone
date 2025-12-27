@@ -164,7 +164,7 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
-     flex-wrap: wrap;
+    flex-wrap: wrap;
     gap: 10px;
 }
 
@@ -172,7 +172,7 @@
     display: flex;
     justify-content: space-between;
     padding: 10px;
-     flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .footer {
@@ -180,4 +180,5 @@
     color: white;
 
 }
+
 
